@@ -1,3 +1,12 @@
+% ---------------------------------------------------------------------------------------------- %
+% Fluorescence analysis: single-vesicle quantal release of excitatory SPONTANEOUS neurotransmission   %
+% Each matlab file outputted corresponds to each sheet within an Excel file % 
+% ------------------------------------------------------------------------- %
+
+% --> For this script to work, you need to save the data properly organized in an Excel file as shown. 
+
+ 
+
 %% Select file and sheet 
 for nfile=1
     if nfile==1
